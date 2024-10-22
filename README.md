@@ -4,7 +4,7 @@ Note: You are strongly encouraged to work together.  However, each person is res
 
 Overview: Overview: We will perform CHARMM MD simulations with NAMD of a RNA G-quadruplex with a docked acridine molecule in explicit solvent on the DEAC cluster. Will it stay there? If so, how does it affect the RNA G-quadruplex?
 
-## Part 2. MD simulations of the RNA G-quadruplexes with Docked Acridines
+## Part 3. MD simulations of the RNA G-quadruplexes with Docked Acridines
 
 Website References: [ NAMD Tutorial ](http://www.ks.uiuc.edu/Training/Tutorials/namd/namd-tutorial-unix-html/index.html)
 
