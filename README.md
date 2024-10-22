@@ -47,6 +47,7 @@ Instructions:
   | **simulations/dihe.tcl** | **VMD script to calculate the torsional angles defined by tetrad guanine bases in a trajectory.** |
 
   To ensure that you have generated the file correctly, I strongly suggest that you use VMD to visualize the 45S.pdb, k.pdb, and ANO.pdb files. It should look something like this (Well, sort of. I did take some minor artistic liberties by changing the representations of the acridine and ions):
+  
   ![image](https://github.com/user-attachments/assets/812bce22-8bbc-4e23-b956-52149dcf3dd7)
 
   
